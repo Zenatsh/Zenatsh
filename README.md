@@ -20,3 +20,4 @@ Add documentation
 Update API endpoint
 Tweak margin and padding
 Fix bug in feature X
+Improve performance
