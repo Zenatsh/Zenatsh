@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Fix bug in feature X
 Update dependencies
+Add documentation
