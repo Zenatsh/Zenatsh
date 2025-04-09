@@ -18,3 +18,4 @@ Fix bug in feature X
 Update dependencies
 Add documentation
 Update API endpoint
+Tweak margin and padding
