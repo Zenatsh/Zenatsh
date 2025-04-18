@@ -23,3 +23,4 @@ Fix bug in feature X
 Improve performance
 Optimize loop
 Fix broken link
+Update dependencies
