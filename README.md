@@ -28,3 +28,4 @@ Add test cases
 Polish UI layout
 Add new utility script
 Update dependencies
+Improve logging
